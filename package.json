@@ -1,0 +1,25 @@
+{
+  "name": "@hamza342/--currencyconverter--",
+  "version": "1.0.2",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "@hamza342/--currencyconverter--": "^1.0.2",
+    "@hamza342/-currencyconverter-": "^1.0.2",
+    "inquirer": "^9.2.21"
+  }
+}
